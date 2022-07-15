@@ -2,4 +2,4 @@
 
 * currently studying Applied Computer Science
 * basic knowledge and ability in C++
-* getting started in game development in Unreal Engine
+* getting started in game development with Unreal Engine
